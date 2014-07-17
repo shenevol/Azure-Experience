@@ -43,11 +43,9 @@
     <!-- Full Page Image Header Area -->
     <div id="top" class="header">
         <div class="vert-text">
-            <h1>Start Bootstrap</h1>
-            <h3>
-                <em>We</em> Build Great Templates,
-                <em>You</em> Make Them Better</h3>
-            <a href="#about" class="btn btn-default btn-lg">Find Out More</a>
+            <h1>Start Yuting's Azure BootStrap Experience!</h1>
+            <h3>The very <em>first</em>web experience！</h3>
+            <a href="#about" class="btn btn-default btn-lg">Find Out More about this template</a>
         </div>
     </div>
     <!-- /Full Page Image Header Area -->
@@ -57,8 +55,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3 text-center">
-                    <h2>Subtle Sidebar is the Perfect Template for your Next Portfolio Website Project!</h2>
-                    <p class="lead">This template really has it all. It's up to you to customize it to your liking! It features some fresh photography courtesy of <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
+                    <h2>Try to be better engineer</h2>
+                    <p class="lead">
+                    This template really has it all. It's up to you to customize it to your liking! 
+                    It features some fresh photography courtesy of 
+                    <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a>.</p>
                 </div>
             </div>
         </div>
@@ -70,7 +71,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-md-offset-4 text-center">
-                    <h2>Our Services</h2>
+                    <h2>About Me</h2>
                     <hr>
                 </div>
             </div>
@@ -78,8 +79,9 @@
                 <div class="col-md-2 col-md-offset-2 text-center">
                     <div class="service-item">
                         <i class="service-icon fa fa-rocket"></i>
-                        <h4>Spacecraft Repair</h4>
-                        <p>Did your navigation system shut down in the middle of that asteroid field? We can repair any dings and scrapes to your spacecraft!</p>
+                        <h4>E-commerce addictors</h4>
+                        <p>Feel bored? Want some fresh and stylish thing? Wanna be pretty? 
+                        Just open the browser and go through thousands of pages and pick up the best suits and clothes just for yourself!</p>
                     </div>
                 </div>
                 <div class="col-md-2 text-center">
